@@ -80,6 +80,7 @@ Exemplos:
 | [grok-superpowers](https://github.com/Godz57/grok-superpowers) | Processo de eng |
 | [grok-craftsman](https://github.com/Godz57/grok-craftsman) | Qualidade always-on |
 | [grok-loops](https://github.com/Godz57/grok-loops) | Loops autônomos |
+| [grok-cyber-skills](https://github.com/Godz57/grok-cyber-skills) | 817 playbooks (router mode D) |
 | **Strix** (upstream) | https://github.com/usestrix/strix |
 
 ## Docs oficiais Strix
