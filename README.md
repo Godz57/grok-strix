@@ -81,6 +81,7 @@ Exemplos:
 | [grok-craftsman](https://github.com/Godz57/grok-craftsman) | Qualidade always-on |
 | [grok-loops](https://github.com/Godz57/grok-loops) | Loops autônomos |
 | [grok-cyber-skills](https://github.com/Godz57/grok-cyber-skills) | 817 playbooks (router mode D) |
+| [grok-ai-memory](https://github.com/Godz57/grok-ai-memory) | Memória cross-agent |
 | **Strix** (upstream) | https://github.com/usestrix/strix |
 
 ## Docs oficiais Strix
